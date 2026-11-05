@@ -26,7 +26,7 @@ Users can manipulate the arm through interactive controls and specify target pos
 
 ## Project Preview
 
-![3-Link Robotic Arm Simulation](images/robot_arm_simulation.png)
+![3-Link Robotic Arm Simulation](images/Robot arm simulation.png)
 
 ## Installation and Setup
 
