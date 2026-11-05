@@ -33,7 +33,7 @@ Users can manipulate the arm through interactive controls and specify target pos
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/adewalebit-m/3-LINK-2D-ROBOT-ARM.git
 ```
 
 ### 2. Navigate into the project folder
